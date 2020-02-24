@@ -1,3 +1,4 @@
 node_modules/
 .vsconfig/
 tmp/uploads/*.png
+.env
